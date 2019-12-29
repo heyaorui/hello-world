@@ -64,3 +64,5 @@ git log    //查看提交日志
 git push   //更新Github仓库
 ```
 
+## 基本操作
+
